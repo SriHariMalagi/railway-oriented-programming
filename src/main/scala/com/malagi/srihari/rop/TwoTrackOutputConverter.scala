@@ -1,4 +1,4 @@
-package com.srihari.malagi.rop
+package com.malagi.srihari.rop
 
 import scala.util.Try
 
